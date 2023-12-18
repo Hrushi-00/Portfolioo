@@ -7,19 +7,19 @@ const projectCardData=[
         imgsrc:pro1,
         title:"Web Disign",
         text:"The web design project aims to create a visually appealing and functional website for [Client Name], ",
-        view:"https://hrushi-00.github.io/pro/"
+        view:"https://github.com/Hrushi-00/pro"
     },
     {
         imgsrc:pro2,
         title:"Web Disign",
         text:"The web design project aims to create a visually appealing and functional website for [Client Name],",
-        view:"https://hrushi-00.github.io/pro/"
+        view:"https://github.com/Hrushi-00/pro"
     },
     {
         imgsrc:pro3,
         title:"Web Disign",
         text:"The web design project aims to create a visually appealing and functional website for [Client Name] ",
-        view:"https://hrushi-00.github.io/pro/"
+        view:"https://github.com/Hrushi-00/pro"
     },
 ]
 export default projectCardData;
