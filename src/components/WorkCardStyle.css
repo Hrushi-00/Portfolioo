@@ -34,8 +34,18 @@
 }
 .pro-btns .btn1{
     padding: 0.5rem 1rem;
-
+    
 }
+.btn1{
+    padding: 12px 32px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background-color: rgb(240, 214, 41);
+    color: #222;
+    border: 1px solid #fff;
+    font-weight: 600;
+    cursor: pointer;
+  }
 
 @media screen and (max-width:740px) {
     .project-container{
