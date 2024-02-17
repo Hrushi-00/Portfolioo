@@ -18,7 +18,7 @@ const projectCardData=[
     {
         imgsrc:pro2,
         title:"Image Search website",
-        text:"Instead of typing a keyword or phrase into a search bar, the search engine retrieves similar or related images.Unlimited Search, explore freely. This process enhances user convenience, allowing them to explore the site without committing to immediate purchases. ",
+        text:"Instead of typing a keyword or phrase into a search bar, the search engine retrieves similar or related images.Unlimited Search, explore freely.The site without committing to immediate purchases This is a basic outline to get you started. Depending on your requirements, you may need to enhance the functionality. Additionally, consider handling errors, optimizing performance, and implementing features like pagination for better user experience. ",
         
         view:"https://hrushi-00.github.io/SearchImage/"
     },
